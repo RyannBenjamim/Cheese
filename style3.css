@@ -7,6 +7,10 @@
     font-family: "Montserrat", Helvetica, sans-serif;
 }
 
+body {
+    background-color: #ddd;
+}
+
 header {
     position: sticky;
     top: 0px;
@@ -124,7 +128,7 @@ a {
 
 footer {
     position: relative;
-    top: 210px;
+    top: 100px;
     opacity: 80%;
     text-align: center;
     color: black;
